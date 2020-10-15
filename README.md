@@ -9,15 +9,24 @@
 
 <p>Sebutkan webserver yang digunakan pada "testing.mekanis.me"!</p>
 
-jawab : 
-Syntax : 1.	http.host contains "testing.mekanis.me"
+<p> jawab : </p> 
+<p>Syntax : 1.	http.host contains "testing.mekanis.me" </p>
  
  
  <img src="Gambar/nomor1.png" width="600">
  
- webserver yang digunakan 
+ <p>webserver yang digunakan </p> 
  
  <img src="Gambar/nomor1_2.png" width="600">
+ 
+ ##  Nomor 2 
+ 
+ <p> Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"! </p>
+ <p> jawab : </p>
+ <p> Syntax: </p> 
+  <img src="Gambar/nomor2.png" width="600">
+ 
+ 
  
  
 # Capture Filter
