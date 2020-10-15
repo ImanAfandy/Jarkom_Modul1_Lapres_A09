@@ -31,10 +31,24 @@ jawab :</p>
 
 <img src="Gambar/nomor11.png" width="600">
  
-<p>hasil capture :</p> 
-
+<p>hasil capture :
+Tidak ada packet yang tercapture </p> 
 
 <img src="Gambar/nomor11_2.png" width="600">
+
+## Nomor 12 
+
+<p> Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80! </p> 
+<p> Syntax: </p> 
+
+
+<img src="Gambar/nomor12.png" width="600">
+<p> hasil capture : 
+<img src="Gambar/nomor12_2.png" width="600">
+ 
+
+
+
  
  
  
