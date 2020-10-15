@@ -25,6 +25,26 @@
  <p> jawab : </p>
  <p> Syntax: </p> 
   <img src="Gambar/nomor2.png" width="600">
+ <br>
+ <p> export gambar yang dicari</p>
+ <img src="Gambar/nomor2_export.png" width="600">
+ <br>
+ <p> Hasil gambar yang sudah diunduh: </p>
+ <br> 
+  <img src="Gambar/Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg" width="600">
+  
+## Nomor 3 
+
+<p> Cari username dan password ketika login di "ppid.dpr.go.id"! </p>
+<p> Jawab : </p> 
+<br>
+ <img src="Gambar/nomor3_2.png" width="600">
+ 
+## Nomor 4 
+<p> Temukan paket dari web-web yang menggunakan basic authentication method! </p>
+<p> Jawab: </p>
+<br> 
+ <img src="Gambar/nomor4.png" width="600">
  
  
  
