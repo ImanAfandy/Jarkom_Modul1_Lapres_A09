@@ -83,6 +83,69 @@
 <img src="Gambar/nomor6_isipdf.png" width="600">
 <br>
 
+## Nomor 7 
+<p> Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
+Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf" </p>
+<p> Jawab: </p>
+
+<p>Display filter sehingga mendapat file yang diinginkan </p>
+<br> 
+<img src="Gambar/nomor7_syntax.png" width="600">
+<br>
+<p> Lakukan Follow stream dan download file tersebut </p>
+<p> Berikut isi file zip </p>
+<br>
+<img src="Gambar/nomor7_isizip.png" width="600">
+<br> 
+<p> Berikut isi file pdf </p> 
+<br>
+<img src="Gambar/nomor7_isipdf.png" width="600">
+<br>
+
+## Nomor 8
+
+<p> Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service! </p>
+<p> Jawab: </p> 
+<p> Display filter : </p> 
+<br>
+<img src="Gambar/nomor8.png" width="600">
+<br>
+<p> Cek diantara keduanya yang menggunakan Microsoft FTP Service </p>
+<br>
+<img src="Gambar/nomor8_2.png" width="600">
+<br>
+
+## Nomor 9
+<p> Cari username dan password ketika login FTP pada localhost! </p>
+<p> Jawab: </p>
+<br>
+<p> Terapkan display filter untuk mencari username dan password: </p>
+<br>
+<img src="Gambar/nomor9.png" width="600">
+<br>
+
+## Nomor 10
+<p>Cari file .pdf di wireshark lalu download dan buka file tersebut!
+clue: "25 50 44 46" </p>
+<p> Jawab: </p>
+<br>
+<p> Display filter mencari file pdf </p> 
+<br>
+<img src="Gambar/nomor10_filter.png" width="600">
+<br>
+<p> Find packet dengan hex value 25 50 44 46 </p>
+<br> 
+<img src="Gambar/nomor10_findhex.png" width="600">
+<br>
+<p> Download file. Berikut isi file tersebut: </p>
+<br>
+<img src="Gambar/nomor10_isifile.png" width="600">
+<br>
+
+
+
+
+
 
  
  
