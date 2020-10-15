@@ -7,10 +7,10 @@
 ## Display Filter
 ##  Nomor 1
 
-Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
+<p>Sebutkan webserver yang digunakan pada "testing.mekanis.me"!</p>
 
 jawab : 
- Syntax : 1.	http.host contains "testing.mekanis.me"
+Syntax : 1.	http.host contains "testing.mekanis.me"
  
  
  <img src="Gambar/nomor1.png" width="600">
@@ -24,14 +24,17 @@ jawab :
 
 ## Nomor 11 
 
-Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
-jawab : 
+<p>Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
+jawab :</p> 
 
- Syntax :
- <img src="Gambar/nomor11.png" width="600">
+<p>Syntax :</p>
+
+<img src="Gambar/nomor11.png" width="600">
  
- hasil capture : 
- <img src="Gambar/nomor11_2.png" width="600">
+<p>hasil capture :</p> 
+
+
+<img src="Gambar/nomor11_2.png" width="600">
  
  
  
