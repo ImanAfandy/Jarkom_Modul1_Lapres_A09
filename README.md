@@ -43,9 +43,41 @@ Tidak ada packet yang tercapture </p>
 
 
 <img src="Gambar/nomor12.png" width="600">
-<p> hasil capture : 
+<p> hasil capture : </p> 
 <img src="Gambar/nomor12_2.png" width="600">
- 
+
+## Nomor 13 
+
+<p> Filter sehingga wireshark hanya menampilkan paket yang menuju port 443! </p>
+<p> Syntax: </p> 
+
+
+<img src="Gambar/nomor13.png" width="600">
+<p> hasil capture : </p> 
+
+<img src="Gambar/nomor13_2.png" width="600">
+
+## Nomor 14 
+
+<p> Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian! </p>
+<p> Syntax: </p> 
+
+<img src="Gambar/nomor14.png" width="600">
+<p> hasil capture : </p>
+
+<img src="Gambar/nomor14_2.png" width="600">
+
+## Nomor 15
+
+<p> Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id! </p>
+<p> Syntax: </p>
+
+<img src="Gambar/nomor15.png" width="600">
+<p> hasil capture : </p>
+
+<img src="Gambar/nomor15_2.png" width="600">
+
+
 
 
 
