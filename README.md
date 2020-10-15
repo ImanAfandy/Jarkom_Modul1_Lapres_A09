@@ -60,6 +60,29 @@
 <p> Setelah memasukan username dan password di aku.pengen.pw : </p>
 <br>
 <img src="Gambar/nomor5_akhir.png" width="600">
+<br>
+
+## Nomor 6 
+<p>Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).</p>
+<p>Jawab:</p>
+
+<p> Display filter sehingga mendapat file zip yang diinginkan </p>
+<br>
+<img src="Gambar/nomor6_filterzip.png" width="600">
+<br> 
+<p> Download file zip </p>
+<p> Display filter sehingga mendapat file txt(password) </p>
+<br>
+<img src="Gambar/nomor6_filterpass.png" width="600">
+<br>
+<p> Berikut isi file txt(password) </p>
+<img src="Gambar/nomor6_isipass.png" width="600">
+<br>
+<p> Berikut isi file pdf dalam zip </p> 
+<br>
+<img src="Gambar/nomor6_isipdf.png" width="600">
+<br>
+
 
  
  
