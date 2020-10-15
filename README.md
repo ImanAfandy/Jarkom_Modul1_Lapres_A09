@@ -60,6 +60,10 @@ Tidak ada packet yang tercapture </p>
 ## Nomor 14 
 
 <p> Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian! </p>
+
+<p>ip address : </p>
+<img src="Gambar/nomor14_ip.png" width="600">
+
 <p> Syntax: </p> 
 
 <img src="Gambar/nomor14.png" width="600">
