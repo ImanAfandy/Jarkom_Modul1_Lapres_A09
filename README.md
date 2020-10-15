@@ -14,11 +14,11 @@ jawab :
  
  ## screenshoot 
  
- <img src="Gambar/nomor1.PNG" width="600">
+ <img src="Gambar/nomor1.png" width="600">
  
  webserver yang digunakan 
  
- <img src="Gambar/nomor1_2.PNG" width="600">
+ <img src="Gambar/nomor1_2.png" width="600">
  
  
 #Capture Filter
