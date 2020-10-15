@@ -46,6 +46,22 @@
 <br> 
  <img src="Gambar/nomor4.png" width="600">
  
+## Nomor 5 
+<p> Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng! </p> 
+<p> Isi aku.pengen.pw : </p> 
+
+<br>
+ <img src="Gambar/nomor5_akupengen.png" width="600">
+<br>
+<p> Syntax: </p> 
+<br>
+<img src="Gambar/nomor5_syntax.png" width="600">
+<br> 
+<p> Setelah memasukan username dan password di aku.pengen.pw : </p>
+<br>
+<img src="Gambar/nomor5_akhir.png" width="600">
+
+ 
  
  
  
