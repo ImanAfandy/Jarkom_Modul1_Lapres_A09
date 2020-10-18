@@ -1,4 +1,4 @@
-# Lapres_Modul1_A09
+# Jarkom_Modul1_Lapres_A09
 
 ### Kelompok A04:
 - Iman Afandy (05111740000129)
