@@ -1,6 +1,6 @@
 # Jarkom_Modul1_Lapres_A09
 
-### Kelompok A04:
+### Kelompok A09:
 - Iman Afandy (05111740000129)
 - Nodas Uziel Putra Serpara (5111840007007)
 
